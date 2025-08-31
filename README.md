@@ -49,8 +49,10 @@ Uptime: 21 years
 [+] ✈️ NCC Air Wing Cadet at 1 GUJ AIR SQN
 [+] 🎖️ Cyber Defense Path Completed - TryHackMe (THM-AIC7EQUVYX)
 [+] 📜 Maltego for Cyber Crime Investigations Certified
-[+] 🌐 Contributed to OWASP organization in the project DevSecOps Maturity model in Google Summer of Code '25
+[+] 🌐 Contributed to OWASP organization in the project
+       DevSecOps Maturity model in Google Summer of Code '25
 ```
+        
 
 
 
