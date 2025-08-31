@@ -15,8 +15,8 @@
 ┌──(root㉿juikalan)-[~]
 └─$ cat /etc/passwd | grep jui
 ```
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/15/01/a7/1501a742aa60bd72a04b74e354ff5d4c.gif" width="400" height="250" />
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/736x/da/4b/e6/da4be691d65ae927dfa8bceed89dd1bd.jpg" width="400" height="250" />
 
 ```yaml
 jui@localhost:~$ whoami
@@ -39,8 +39,6 @@ Uptime: 21 years
 
 ## 🎯 `$ ./achievements --list`
 
-<img align="right" src="https://i.pinimg.com/originals/15/01/a7/1501a742aa60bd72a04b74e354ff5d4c.gif" width="250">
-
 ```bash
 [*] Loading achievements...
 [+] 🥉 3rd Position - Gurugram Police CTF
@@ -48,33 +46,11 @@ Uptime: 21 years
 [+] ✈️ NCC Air Wing Cadet at 1 GUJ AIR SQN
 [+] 🎖️ Cyber Defense Path Completed - TryHackMe (THM-AIC7EQUVYX)
 [+] 📜 Maltego for Cyber Crime Investigations Certified
-[+] 🌐 Contributed to OWASP organization in the project
-       DevSecOps Maturity model in Google Summer of Code '25
+[+] 🌐 Contributed to OWASP organization in the project DevSecOps Maturity model in Google Summer of Code '25
 ```
-        
-
-
-
-
-
+      
 ---
-## 🖥️ `$ systemctl status jui.service`
 
-```diff
-● jui.service - Cybersecurity Student Service
-   Loaded: loaded (/etc/systemd/system/jui.service; enabled)
-   Active: active (running) since 2004-10-28
-   Main PID: 1337 (curiosity)
-   Tasks: ∞
-   Memory: Unlimited
-   CGroup: /system.slice/jui.service
-   
-@@ Current Activities @@
-+ 🎓 Pursuing B.Tech in Computer Engineering (Cyber Security) - 6th Semester
-+ 🔐 Developing Security Tools & Exploits
-+ 🛡️ Learning Web Application Security
-+ 📚 Studying SOC practically and understanding GRC case studies
-```
 
 ## ⚡ `$ nmap -sV localhost | grep skills`
 
