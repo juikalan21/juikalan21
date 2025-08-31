@@ -40,6 +40,23 @@ Uptime: 21 years
 <img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 <img src="https://img.shields.io/badge/Terminal-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 
+---
+
+## 🎯 `$ ./achievements --list`
+
+<img align="right" src="https://i.pinimg.com/736x/cf/3b/f4/cf3bf4e90ee7b43062c7bdb5553a1150.jpg" width="250">
+
+```bash
+[*] Loading achievements...
+[+] 🥉 3rd Position - Gurugram Police CTF
+[+] 🏆 Top 50 - Territorial Army Cyber Challenge CTF 2024
+[+] ✈️ NCC Air Wing Cadet at 1 GUJ AIR SQN
+[+] 🎖️ Cyber Defense Path Completed - TryHackMe (THM-AIC7EQUVYX)
+[+] 📜 Maltego for Cyber Crime Investigations Certified
+[+] 🌐 Contributed to OWASP organization in the project DevSecOps Maturity model in Google Summer of Code '25
+```
+
+---
 
 
 ## 🖥️ `$ systemctl status jui.service`
@@ -60,28 +77,9 @@ Uptime: 21 years
 + 📚 Studying SOC practically and understanding GRC case studies
 ```
 
----
-
-## 🎯 `$ ./achievements --list`
-
-<img align="right" src="https://i.pinimg.com/736x/cf/3b/f4/cf3bf4e90ee7b43062c7bdb5553a1150.jpg" width="250">
-
-```bash
-[*] Loading achievements...
-[+] 🥉 3rd Position - Gurugram Police CTF
-[+] 🏆 Top 50 - Territorial Army Cyber Challenge CTF 2024
-[+] ✈️ NCC Air Wing Cadet at 1 GUJ AIR SQN
-[+] 🎖️ Cyber Defense Path Completed - TryHackMe (THM-AIC7EQUVYX)
-[+] 📜 Maltego for Cyber Crime Investigations Certified
-[+] 🌐 Contributed to OWASP organization in the project DevSecOps Maturity model in Google Summer of Code '25
-```
-
----
-
 ## ⚡ `$ nmap -sV localhost | grep skills`
 
-<details>
-<summary><b>🔓 Click to Decrypt Skills Matrix</b></summary>
+
 
 ### 💻 Programming & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -119,34 +117,7 @@ Uptime: 21 years
 
 </details>
 
----
 
-## 📚 `$ cat /proc/education`
-
-```yaml
-🎓 Current Education Status:
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-University: Parul University, Vadodara, Gujarat
-Degree: B.Tech Computer Engineering
-Specialization: Cyber Security
-Duration: June 2022 - June 2026
-Current: 6th Semester
-CGPA: 8.04/10.00
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-📖 Relevant Coursework:
-├── Security Monitoring
-├── Metasploit Framework
-├── Python Programming
-├── GRC (ISMS)
-├── Operating Systems
-├── OSINT
-├── Network Security
-└── Database Management
-
-🏫 Previous Education:
-└── HSC: Shubhamraje Junior College (74%)
-```
 
 ## 💼 `$ cat /var/log/experience.log`
 ```
@@ -242,7 +213,3 @@ root@localhost:~$ logout
 [Process completed]
 ```
 
-<!-- 8-bit Animation - Add your Pinterest animation here -->
-<p align="center">
-  <img src="https://i.pinimg.com/736x/29/3a/87/293a87eda9f5e79ca4efb170de815af1.jpg" width="600">
-</p>
