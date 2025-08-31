@@ -127,23 +127,7 @@ Uptime: 21 years
 
 ---
 
-## 🎮 `$ ./ctf_stats --verbose`
 
-<div align="center">
-  
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/juikalan.png)](https://tryhackme.com/p/juikalan)
-
-```css
-[CTF ACHIEVEMENTS]
-┌─────────────────────────────────────────────┐
-│ Platform          │ Rank/Achievement        │
-├─────────────────────────────────────────────┤
-│ TryHackMe         │ Cyber Defense Path ✓    │
-│                   │ ID: THM-AIC7EQUVYX      │
-│ Gurugram Police   │ 🥉 3rd Position         │
-│ TA CTF 2024       │ Top 50 🏆              │
-│ Maltego           │ Cyber Crime Inv. Cert  │
-└─────────────────────────────────────────────┘
 ```
 
 </div>
