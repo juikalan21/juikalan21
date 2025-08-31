@@ -17,7 +17,7 @@
 └─$ cat /etc/passwd | grep jui
 ```
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/64/b4/b3/64b4b3aafc150164d52813034aa6ee1d.gif" width="400" height="250" />
+<img align="right" alt="GIF" src="https://i.pinimg.com/736x/da/4b/e6/da4be691d65ae927dfa8bceed89dd1bd.jpg" width="400" height="250" />
 
 ```yaml
 jui@localhost:~$ whoami
@@ -34,9 +34,7 @@ Uptime: 21 years
 ```
 
 <!-- System Info Style -->
-<img src="https://img.shields.io/badge/OS-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-<img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Terminal-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/OS-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"> <img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" > <img src="https://img.shields.io/badge/Terminal-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" >
 
 ---
 
