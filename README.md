@@ -127,25 +127,16 @@ Uptime: 21 years
 
 ---
 
-
-```
-
-</div>
-
----
-
 ## 🎯 `$ tail -f /var/log/current_focus.log`
 
-```bash
-[2025] Currently Learning & Working On...
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Currently Learning & Working On...
+
 > Web Application Penetration Testing
 > Advanced OSINT Techniques  
 > DevSecOps - Implementing Security on every step of SDLC
 > Bug Hunting
 > Building AI tools to assist in SOC
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+
 
 ---
 
