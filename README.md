@@ -17,7 +17,7 @@
 └─$ cat /etc/passwd | grep jui
 ```
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/23/f2/7a/23f27a908dbf7976abc5b9548f7dbe87.gif" width="400" height="250" />
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/64/b4/b3/64b4b3aafc150164d52813034aa6ee1d.gif" width="400" height="250" />
 
 ```yaml
 jui@localhost:~$ whoami
@@ -25,10 +25,8 @@ jui@localhost:~$ whoami
 Name: Jui Kalan
 Role: Cyber Security Student & Ethical Hacker
 Education: B.Tech Computer Engineering @ Parul University
-Specialization: Cyber Security
 Current_CGPA: 8.04/10
 Location: India
-Contact: +91 9082593918
 Email: juikalan21@gmail.com
 Kernel: Human v2.0.0.3
 Shell: /bin/bash
@@ -44,7 +42,7 @@ Uptime: 21 years
 
 ## 🎯 `$ ./achievements --list`
 
-<img align="right" src="https://i.pinimg.com/736x/cf/3b/f4/cf3bf4e90ee7b43062c7bdb5553a1150.jpg" width="250">
+<img align="right" src="https://i.pinimg.com/originals/15/01/a7/1501a742aa60bd72a04b74e354ff5d4c.gif" width="250">
 
 ```bash
 [*] Loading achievements...
@@ -56,9 +54,11 @@ Uptime: 21 years
 [+] 🌐 Contributed to OWASP organization in the project DevSecOps Maturity model in Google Summer of Code '25
 ```
 
+
+
+
+
 ---
-
-
 ## 🖥️ `$ systemctl status jui.service`
 
 ```diff
