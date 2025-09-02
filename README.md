@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img src="https://i.pinimg.com/originals/52/6a/b5/526ab5f897fe33f195ca51258bf7c19b.gif" width="900">
+</div>
 
 <!-- Typing SVG Header -->
 <p align="center">
@@ -91,8 +93,6 @@ Uptime: 21 years
 ![OS](https://img.shields.io/badge/Operating_Systems-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </details>
-
-
 
 ## 💼 `$ cat /var/log/experience.log`
 ```
