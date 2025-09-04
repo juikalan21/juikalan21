@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://i.pinimg.com/originals/52/6a/b5/526ab5f897fe33f195ca51258bf7c19b.gif" width="900">
-</div>
-
 <!-- Typing SVG Header -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=%24+whoami;root%40juikalan%3A~%23;Cyber+Security+Student;CTF+Player+%7C+Blue+Teamer;Ethical+Hacker+in+Training" alt="Typing SVG" />
